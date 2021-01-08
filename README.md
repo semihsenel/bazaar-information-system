@@ -1,1 +1,1 @@
-# bazaar-information-system
+# Bazaar Information System
